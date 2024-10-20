@@ -18,11 +18,11 @@ Neste código, foi utilizada uma biblioteca para a geração de nomes aleatório
 
 - Necessário **Node.js** instalado em sua máquina.
 
-- Necessário ter a biblioteca **faker.js** instalada no ambiente. Segue um passo a passo:
+- Passo a passo:
   
   1. Após ter instalado o Node.js em sua máquina, abra o projeto no Visual Studio Code ou em sua IDE de preferência.
   
-  2. Abra o terminal no local onde se encontra o projeto e digite o seguinte comando:
+  2. Abra o terminal na IDE e digite o seguinte comando para garantir que o faker-js esteja instalado:
      ```bash
      npm install
      ```
