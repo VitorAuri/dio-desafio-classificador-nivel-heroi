@@ -1,6 +1,6 @@
 # 🎮 Desafio Bootcamp Santander 2024 - Criando Jogos com Godot
 
-Neste código, foi utilizada uma biblioteca para a geração de nomes aleatórios dos heróis.
+Este código é um classificador de nível de heróis, nele foi utilizada uma biblioteca para geração aleatória de nomes já que nele é possivel fazer um teste gerando múltiplos heróis ao mesmo tempo, abaixo segue uma melhor explicação de sua estrutura e também um passo a passo para como rodar o código em seu computador.
 
 ## ⛓ Estrutura do Código
 
